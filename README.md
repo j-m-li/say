@@ -32,3 +32,8 @@ https://github.com/thejellyfish/soundex-fr
 
 https://github.com/ibm-cloud-docs/text-to-speech/blob/master/symbols-fr-fr.md
 
+https://github.com/nk2028/putonghua-ipa-converter
+
+https://en.wikipedia.org/wiki/Phonetic_symbols_in_Unicode
+
+
