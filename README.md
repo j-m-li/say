@@ -9,6 +9,16 @@ https://www.lemonamiga.com/forum/viewtopic.php?t=7511
 
 ***
 
+https://en.wikipedia.org/wiki/Spectral_modeling_synthesis
+
+## TODO
+- record each phonemes
+- convert them to frequency spectrums
+- create timing data for the duration of each phonemes
+- create transition timings to tell how to blend a phoneme into its neighbors
+- create "glue" code to deal with these data
+- 
+***
 ```
 pitch (65-320)
 inflection (0,1)
